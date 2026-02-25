@@ -1,0 +1,9 @@
+.contact-name {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.contact-name__link {
+  color: #1677ff;
+}
